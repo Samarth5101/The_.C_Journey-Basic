@@ -1,0 +1,2 @@
+The numer is 5101
+Thanks for using fprintf
